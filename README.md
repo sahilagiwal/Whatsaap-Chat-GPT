@@ -34,10 +34,12 @@ The assistant uses the following technologies and APIs:
 ```bash
 git clone https://github.com/your_username/your_project.git
 cd your_project
+```
 
 2. Install dependencies:
 ```bash
 composer install
+```
 
 3. Configure API keys:
 Open index.php and replace the placeholders with your Twilio and OpenAI API credentials.
